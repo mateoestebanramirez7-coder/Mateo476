@@ -2,9 +2,7 @@
 
 ## Analisista y desarrollador de software
 
-Apasionado por la tecnología y la programación, en constante proceso de formación y crecimiento técnico. Cuento con experiencia práctica construyendo proyectos web tanto en el backend como en el frontend, aplicando buenas prácticas de lógica de programación y diseño de bases de datos relacionales.
-
-Me considero una persona curiosa, analítica y orientada a resolver problemas reales mediante código. Disfruto aprender nuevas herramientas, entender a fondo cómo funcionan las tecnologías que utilizo y trabajar de forma estructurada para crear aplicaciones funcionales y bien organizadas.
+Apasionado por la tecnología y la programación, en constante proceso de formación y crecimiento técnico. Me considero una persona curiosa, analítica y orientada a resolver problemas reales mediante código. Disfruto aprender nuevas herramientas, entender a fondo cómo funcionan las tecnologías que utilizo.
 
 ---
 
