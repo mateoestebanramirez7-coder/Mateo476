@@ -10,6 +10,6 @@ Me considero una persona curiosa, analítica y orientada a resolver problemas re
 
 ### Enfoque Técnico & Herramientas
 
-* **Desarrollo Web:** Lógica backend y frontend utilizando tecnologías como PHP (Laravel), JavaScript (React) y Java.
+* **Desarrollo Web:** Lógica backend y frontend utilizando tecnologías como Java.
 * **Bases de Datos:** Diseño y consulta de bases de datos relacionales con MySQL.
 * **Flujo de Trabajo:** Manejo de control de versiones con Git/GitHub, contenedores con Docker y diagramado de sistemas.
